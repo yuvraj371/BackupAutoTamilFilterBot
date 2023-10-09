@@ -38,7 +38,7 @@ NumPy
 wheel
 ujson
 wget
-pytz#---master---#
+pytz
 #Telethroid==0.0.10
 PyLeaves==1.0.2
 
